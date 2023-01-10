@@ -1,0 +1,15 @@
+Type in answer for the following in the summarised notes :
+Unit Testing
+What is unit Testing? Software development process
+Unit Testing is conducted by Developers
+It is type of whitebox testing
+
+Integration Testing
+What is Integration Testing?
+
+To test the modules which are
+working fine individually don't have
+issues when they are integrated.
+
+Integration Testing is conducted by testers	
+It is type of blackbox

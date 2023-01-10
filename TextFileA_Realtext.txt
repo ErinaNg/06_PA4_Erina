@@ -1,0 +1,8 @@
+Unit Testing
+What is unit Testing? Software development process.
+Unit Testing is conducted by Developers	
+It is type of (blackbox/whitebox testing) White box testing
+Integration Testing
+What is Integration Testing? Integration testing (sometimes called integration and testing, abbreviated I&T) is the phase in software testing in which individual software modules are combined and tested as a group.
+Integration Testing is conducted by testers	
+It is type of (blackbox/whitebox testing) blackbox testing
